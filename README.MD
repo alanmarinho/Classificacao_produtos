@@ -5,15 +5,15 @@
 ## Como executar
 
 1. Clone o repositório: `git clone https://github.com/alanmarinho/Classificacao_produtos.git`
-2. Intalar as dependencias: `npm install`
-3. Executar: `npm run dev`
+2. Instale as dependências: `npm install`
+3. Execute: `npm run dev`
 
 ## Como usar
 
-- Apos executar uma mesagem listando o comandos possivels ira aparecer.
+- Após executar, uma mensagem listando os comandos possíveis irá aparecer.
 
-1. Comando 1: ao digitar "1" e clicar em Enter os dados classificados vão ser escritos em `./classifiedProducts.json` na raiz do projeto.
-2. Comando 2: ao digitar em texto livre, os itens correspondentes vão ser escritos em `./searchForProduct.json`
-3. Comando 3: ao digitar "sair" o programa encerra.
+1. **Comando 1:** Ao digitar "1" e clicar em Enter, os dados classificados serão escritos em `./classifiedProducts.json` na raiz do projeto.
+2. **Comando 2:** Ao digitar um texto livre, os itens correspondentes serão escritos em `./searchForProduct.json`.
+3. **Comando 3:** Ao digitar "sair", o programa será encerrado.
 
-OBS: a cada uso dos comando os arquivos correspondentes são reeescritos.
+**OBS:** A cada uso dos comandos, os arquivos correspondentes são reescritos.
